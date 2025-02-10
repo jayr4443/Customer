@@ -1,4 +1,4 @@
-<img width="100%" alt="image" src="https://user-images.githubusercontent.com/129714988/230786429-ae7d00b6-3375-452d-bc00-adbf780ad5f5.png">
+
 
 # Laravel React Vite Stisla
 
